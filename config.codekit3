@@ -105,11 +105,11 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/assets/images/55.png": {
+	"/assets/images/55white.png": {
 		"ft": 32768,
-		"iS": 2969,
+		"iS": 1945,
 		"oA": 0,
-		"oAP": "/assets/images/55.png",
+		"oAP": "/assets/images/55white.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -182,17 +182,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/iuwhite.png": {
-		"ft": 32768,
-		"iS": 34837,
-		"oA": 0,
-		"oAP": "/assets/images/iuwhite.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/images/paris.png": {
 		"ft": 32768,
 		"iS": 121681,
@@ -204,11 +193,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/paypal.png": {
+	"/assets/images/paypalwhite.png": {
 		"ft": 32768,
-		"iS": 6943,
+		"iS": 4307,
 		"oA": 0,
-		"oAP": "/assets/images/paypal.png",
+		"oAP": "/assets/images/paypalwhite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -226,11 +215,22 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/pronto.png": {
+	"/assets/images/prontowhite.png": {
 		"ft": 32768,
-		"iS": 2760,
+		"iS": 1676,
 		"oA": 0,
-		"oAP": "/assets/images/pronto.png",
+		"oAP": "/assets/images/prontowhite.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/ubisoftwhite.png": {
+		"ft": 32768,
+		"iS": 3914,
+		"oA": 0,
+		"oAP": "/assets/images/ubisoftwhite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -760,13 +760,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/content/2-blog/blog.txt",
-		"oF": 0
-		},
-	"/content/2-blog/chapitre-1-pourquoi-chapters/article.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/content/2-blog/chapitre-1-pourquoi-chapters/article.txt",
 		"oF": 0
 		},
 	"/content/3-contact/contact.txt": {
@@ -5898,47 +5891,6 @@
 		"oA": 0,
 		"oAP": "/site/templates/home.php",
 		"oF": 0
-		},
-	"/thumbs/blog/chapitre-1-pourquoi-chapters/czzzz-75x75.jpg": {
-		"ft": 16384,
-		"iS": 2318,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/thumbs/blog/chapitre-1-pourquoi-chapters/czzzz-75x75.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/thumbs/blog/chapitre-1-pourquoi-chapters/imagesdzazfdzafza-2-75x75.jpg": {
-		"ft": 16384,
-		"iS": 2424,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/thumbs/blog/chapitre-1-pourquoi-chapters/imagesdzazfdzafza-2-75x75.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/thumbs/blog/chapitre-1-pourquoi-chapters/john-stewart-gif-75x75.gif": {
-		"ft": 4194304,
-		"iS": 5326,
-		"oA": 0,
-		"oAP": "/thumbs/blog/chapitre-1-pourquoi-chapters/john-stewart-gif-75x75.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/thumbs/blog/chapitre-1-pourquoi-chapters/raphael-schaller-88040-unsplash-1200x800-75x75.jpg": {
-		"ft": 16384,
-		"iS": 3755,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/thumbs/blog/chapitre-1-pourquoi-chapters/raphael-schaller-88040-unsplash-1200x800-75x75.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"/thumbs/blog/chapitre-17-7-cles-pour-une-prise-de-parole-reussie-la-5eme-va-vous-surprendre/6a08a65d-4d9a-49fe-b1a9-f297552bc022-75x75.jpg": {
 		"ft": 16384,
