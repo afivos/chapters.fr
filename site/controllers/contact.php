@@ -31,7 +31,7 @@ return function($site, $pages, $page) {
       $body  = snippet('contactmail', $data, true);
       // build the email
       $email = email(array(
-        'to'      => 'afivos@me.com',
+        'to'      => 'contact@chapters.fr',
         'from'    => $data['email'],
         'subject' => 'New contact request',
         'replyTo' => $data['email'],
