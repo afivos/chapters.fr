@@ -70,7 +70,7 @@
 									 then we apply the filter in controllers/blog.php -->
 									<!--<a href="<?= $page->url() ?>?category=<?= str::slug($article->category()) ?>"><?= $article->category() ?></a>,
 								<?php endif; ?>-->
-								<?= $article->date('M Y') ?></h5>
+								<?= $article->date('F Y') ?></h5>
 							<p><?= $article->text()->kirbytext()->excerpt(120, 'chars') ?><a href="<?= $article->url() ?>" class="article-more">read more</a></p>
 						</div>
 					<?php endforeach ?>
