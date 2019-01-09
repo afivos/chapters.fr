@@ -71,7 +71,7 @@
 									<!--<a href="<?= $page->url() ?>?category=<?= str::slug($article->category()) ?>"><?= $article->category() ?></a>,
 								<?php endif; ?>-->
 								<?= $article->date('F Y') ?></h5>
-							<p><?= $article->text()->kirbytext()->excerpt(120, 'chars') ?><a href="<?= $article->url() ?>" class="article-more">read more</a></p>
+							<p><?= $article->text()->kirbytext()->excerpt(120, 'chars') ?><a href="<?= $article->url() ?>" class="article-more"> voir plus</a></p>
 						</div>
 					<?php endforeach ?>
 				<?php else: ?>
