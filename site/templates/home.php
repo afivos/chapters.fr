@@ -98,16 +98,16 @@
         <h1>Ils nous font confiance:</h1>
         <div class="row text-center">
             <div class="three columns">
-                <img src="assets/images/55.png">
+                <img src="assets/images/55white.png">
             </div>
             <div class="three columns">
-                <img src="assets/images/paypal.png">
+                <img src="assets/images/paypalwhite.png">
             </div>
             <div class="three columns">
-                <img src="assets/images/pronto.png">
+                <img src="assets/images/prontowhite.png">
             </div>
             <div class="three columns">
-                <img src="assets/images/iuwhite.png">
+                <img src="assets/images/ubisoftwhite.png">
             </div>
         </div>
         <hr>
