@@ -32,10 +32,10 @@
 			    <textarea name="subject" placeholder="Objet de votre demande (*)" tabindex="4" required id="textarea-1"></textarea>
 			  </fieldset>
 			  <fieldset>
-			    <textarea name="text" placeholder="Type your message here...." tabindex="5" required id="textarea-2"></textarea>
+			    <textarea name="text" placeholder="Écrivez votre message ici...." tabindex="5" required id="textarea-2"></textarea>
 			  </fieldset>
 			  <fieldset>
-			    <input type="submit" name="submit" id="contact-submit" value="Submit" data-submit="...Sending">
+			    <input type="submit" name="submit" id="contact-submit" value="Envoyer" data-submit="...Envoyé">
 			  </fieldset>
 
 		    </form>
@@ -44,10 +44,10 @@
 
 		</div>
 		<div class="six columns">
-			<p>téléphone:<br><a href="tel:0756924800">07 56 92 48 00</a></p>
-			<p>email:<br><a href="mailto: contact@chapters.fr">contact@chapters.fr</a></p>
+			<p>Téléphone:<br><a href="tel:0756924800">07 56 92 48 00</a></p>
+			<p>Email:<br><a href="mailto: contact@chapters.fr">contact@chapters.fr</a></p>
 			<p>Siège:<br>5 rue du Faubourg<br>Saint-Antoine 75011 Paris</p>
-      <p>Bureau:<br>23 rue du Cherche Midi<br>75006 Paris</p></p>
+			<p>Bureau:<br>23 rue du Cherche Midi<br>75006 Paris</p></p>
 		</div>
 	</div>
 </div>

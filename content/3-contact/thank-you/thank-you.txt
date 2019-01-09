@@ -1,9 +1,9 @@
-Title: Thank you!
+Title: Merci!
 
 ----
 
-Intro: Your message has been sent.
+Intro: Votre message a été envoyé.
 
 ----
 
-Text: We will try to get back to you as soon as possible.
+Text: 
