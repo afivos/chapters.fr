@@ -43,7 +43,7 @@
 
 <div class="blogpost-meta">
 	<div class="blogpost-meta-row blogpost-meta-border">
-		<p class="text-right"><?= $page->date('l F jS Y') ?><?php e($page->author()->isNotEmpty(), ' by ') ?><?= $page->author() ?></p>
+		<p class="text-right"><?= $page->date('l F jS Y') ?><?php e($page->author()->isNotEmpty(), ' par ') ?><?= $page->author() ?></p>
 	</div>
 
 	<div class="blogpost-meta-row section-blog">
