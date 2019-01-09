@@ -2,11 +2,11 @@
 <nav class="pagination">
 
   <?php if($pagination->hasNextPage()): ?>
-  <a class="next" href="<?= $pagination->nextPageURL() ?>">&lsaquo; older posts</a>
+  <a class="next" href="<?= $pagination->nextPageURL() ?>">&lsaquo; articles précédents</a>
   <?php endif ?>
 
   <?php if($pagination->hasPrevPage()): ?>
-  <span style="float: right;"><a class="prev" href="<?= $pagination->prevPageURL() ?>">newer posts &rsaquo;</a></span>
+  <span style="float: right;"><a class="prev" href="<?= $pagination->prevPageURL() ?>">articles suivants &rsaquo;</a></span>
   <?php endif ?>
 
 </nav>
