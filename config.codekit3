@@ -105,6 +105,17 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/assets/images/55.png": {
+		"ft": 32768,
+		"iS": 2969,
+		"oA": 0,
+		"oAP": "/assets/images/55.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/blog1.png": {
 		"ft": 32768,
 		"iS": 77673,
@@ -171,33 +182,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/images/IterationsV2 (1).png": {
-		"ft": 32768,
-		"iS": 94760,
-		"oA": 0,
-		"oAP": "/assets/images/IterationsV2 (1).png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/images/iuwhite.png": {
 		"ft": 32768,
 		"iS": 34837,
 		"oA": 0,
 		"oAP": "/assets/images/iuwhite.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/images/Limestone-figurine-10264x1-931-cm-H-455-cm-W-453-cm-Th-203-g-Illustration-by.png": {
-		"ft": 32768,
-		"iS": 53789,
-		"oA": 0,
-		"oAP": "/assets/images/Limestone-figurine-10264x1-931-cm-H-455-cm-W-453-cm-Th-203-g-Illustration-by.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -215,11 +204,33 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/images/paypal.png": {
+		"ft": 32768,
+		"iS": 6943,
+		"oA": 0,
+		"oAP": "/assets/images/paypal.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/people.png": {
 		"ft": 32768,
 		"iS": 141829,
 		"oA": 0,
 		"oAP": "/assets/images/people.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/pronto.png": {
+		"ft": 32768,
+		"iS": 2760,
+		"oA": 0,
+		"oAP": "/assets/images/pronto.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -777,6 +788,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/content/error/error.txt",
+		"oF": 0
+		},
+	"/content/mentions-legales/mentions-legales.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/content/mentions-legales/mentions-legales.txt",
 		"oF": 0
 		},
 	"/content/site.txt": {
