@@ -1,0 +1,13 @@
+%font-light 	{font-weight: 100;}
+%font-regular 	{font-weight: 400;}
+%font-bold 		{font-weight: 600;}
+
+$font-heading:	"Bluu Next", "Arial", sans-serif;
+$font-content:	"Arial", sans-serif;
+$font-fixed:	"Consolas", monospace;
+
+$breakpoint:	800px;
+$breakpoint-sm:	769px;
+$breakpoint-xs:	600px;
+
+@import "../modules/all";

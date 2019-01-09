@@ -1,0 +1,9 @@
+Title: Thank you!
+
+----
+
+Intro: Your message has been sent.
+
+----
+
+Text: We will try to get back to you as soon as possible.

@@ -1,0 +1,45 @@
+Title: Exemple client : Prendre de la hauteur (Séminaire annuel sur la Vision)
+
+----
+
+Coverimage: picdumidi.jpg
+
+----
+
+Date: 2017-12-07
+
+----
+
+Category: Business Case / Les projets
+
+----
+
+Related: 
+
+----
+
+Author: pierre
+
+----
+
+Text: 
+
+# Séminaire Vision pour un Comité de Direction
+
+# Notre client
+
+Le Comité de Direction d'une agence de communication internationale.
+
+# Son contexte
+
+Le Comité de Direction souhaitait se retrouver et prendre du recul pour réfléchir aux orientations stratégiques à prendre pour l'entreprise.
+
+(image: triptique-vision.png)
+
+# Histoire du séminaire
+
+"C’est d’abord une contrainte logistique qui nous a mis sur la piste de cette pépite : le plus haut séminaire d’Europe. Réunir, sans trop de transports, un comité de direction éclaté entre Bruxelles, Paris, Londres et Madrid. Après un vol d’une heure et une ascension spectaculaire en téléphérique, le panorama escarpé de la chaîne des Pyrénées s’étire à perte de vue à travers les baies vitrées de la salle de réunion de l’Observatoire, niché à 2877 mètres d’altitude.
+La découverte nocturne des constellations en compagnie d’astronomes et scientifiques passionnés, une conférence prospective sur la Réalité Virtuelle et des test hands-on ont favorisé l’entre-soi et la prise de recul durant cette première journée.
+Le lendemain c’est emporté par des Huskies de Sibérie que notre Groupe a dévalé le relief enneigé du Grand Tourmalet avant de prendre la direction du retour, leurs smartphones plus riches de quelques clichés particulièrement photogéniques de la mer de nuages."
+
+*Chez Chapters, nous accompagnons nos clients pour des séminaires clés en main, réussis sur le fond comme sur la forme. A la fois consultants en management, tour operator et agence événementielle, on s'occupe de tout!*

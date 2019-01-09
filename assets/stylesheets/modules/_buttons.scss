@@ -1,0 +1,22 @@
+@mixin btn-filled($btn-color) {
+	border-color: $btn-color;
+	background-color: $btn-color;
+	color: $color-white;
+	&:hover,
+	&:active {
+		border-color: darken($btn-color, 3%);
+		background-color: darken($btn-color, 3%);
+	}
+}
+
+@mixin btn-outlined($btn-color) {
+	border-color: $btn-color;
+	background-color: transparent;
+	color: $btn-color;
+	&:hover,
+	&:active {
+		border-color: darken($btn-color, 3%);
+		background-color: darken($btn-color, 3%);
+		color: $color-white;
+	}
+}

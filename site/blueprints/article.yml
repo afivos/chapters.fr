@@ -1,0 +1,50 @@
+title: Article
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  title
+    
+  coverimage:
+    label: Cover Image
+    type: image
+    width: 1/2
+    
+  date:
+    icon: calendar
+    label: Date
+    type: date
+    format: LL
+    placeholder: Select a date…
+    default: today
+    required: true
+    width: 1/2
+
+  category:
+    label: Category
+    # type: quickselect to select only one
+    type: multiselect
+    options: field
+    field:
+      page: ../
+      name: categories
+
+  related:
+    label: Related pages
+    type: multiselect
+    options: query
+    query:
+      page: ../
+      fetch: children
+      value: '{{uri}}'
+
+  author:
+    label: Author
+    type: user
+    default: Pierre
+  
+  text:
+    label: Text
+    type: textarea

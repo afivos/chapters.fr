@@ -1,0 +1,13 @@
+Title: Blog
+
+----
+
+Text: 
+
+----
+
+Perpage: 2
+
+----
+
+Categories: Tips de management,Principes de management,Chapters,Business Case / Les projets

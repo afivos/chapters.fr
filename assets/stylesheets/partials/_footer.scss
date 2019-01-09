@@ -1,0 +1,26 @@
+footer {
+  font-size: 90%;
+
+  h1 {
+		font-size: 275%;
+		margin-top: 0;
+
+  	a {
+			color: $color-white;
+			@extend %transition-2;
+
+			&:hover,
+			&:focus {
+				text-decoration: none !important;
+				opacity: 0.8;
+			}
+		}
+  }
+
+	p {
+	  a {
+	    color: inherit;
+			text-decoration: underline;
+	  }
+	}
+}

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Bluu Next';
+    src: url('/assets/fonts/bluunext-bold-webfont.woff2') format('woff2'),
+         url('/assets/fonts/bluunext-bold-webfont.woff') format('woff'),
+         url('/assets/fonts/bluunext-bold.ttf') format('truetype'),
+         url('/assets/fonts/bluunext-bold-webfont.svg#bluu_nextbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Bluu Next';
+    src: url('/assets/fonts/bluunext-bolditalic-webfont.woff2') format('woff2'),
+         url('/assets/fonts/bluunext-bolditalic-webfont.woff') format('woff'),
+         url('/assets/fonts/bluunext-bolditalic.ttf') format('truetype'),
+         url('/assets/fonts/bluunext-bolditalic-webfont.svg#bluu_nextbold_italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
