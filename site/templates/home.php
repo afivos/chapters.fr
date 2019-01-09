@@ -98,13 +98,13 @@
         <h1>Ils nous font confiance:</h1>
         <div class="row text-center">
             <div class="three columns">
-                <img src="assets/images/iuwhite.png">
+                <img src="assets/images/55.png">
             </div>
             <div class="three columns">
-                <img src="assets/images/iuwhite.png">
+                <img src="assets/images/paypal.png">
             </div>
             <div class="three columns">
-                <img src="assets/images/iuwhite.png">
+                <img src="assets/images/pronto.png">
             </div>
             <div class="three columns">
                 <img src="assets/images/iuwhite.png">

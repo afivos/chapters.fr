@@ -20,7 +20,7 @@
                     <br><a href="<?= $site->linkedin() ?>">linkedin</a></p>
             </div>
             <div class="three columns">
-                <p>Mentions légales</p>
+                <p><a href="<?= $site->url() ?>/mentions-legales">Mentions légales</a></p>
             </div>
         </div>
     </div>
