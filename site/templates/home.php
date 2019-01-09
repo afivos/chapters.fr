@@ -85,7 +85,7 @@
             <span class="dot dot-left"></span>
         </div>
         <div class="ten columns text-center">
-            <h1>Contactez-nous</h1>
+            <h1><a href="<?= $site->url() ?>/contact">Contactez-nous</a></h1>
         </div>
         <div class="one columns text-right">
             <span class="dot dot-right"></span>
