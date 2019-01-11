@@ -40,7 +40,7 @@ return function($site, $pages, $page) {
       // try to send it and redirect to the
       // thank you page if it worked
       if($email->send()) {
-        go('contact/thank-you');
+        go('a-propos/thank-you');
       // add the error to the alert list if it failed
       } else {
         $alert = array($email->error());
