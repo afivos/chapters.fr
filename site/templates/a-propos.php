@@ -2,6 +2,16 @@
 
 <div class="container container-light-grey away-from-top section-contact">
 	<h3><?= $page->title()->html() ?></h3>
+
+	<div class="row">
+		<div class="six columns">
+			<img src="assets/images/photocontact.png">
+		</div>
+		<div class="six columns">
+			<p>Pierre Le Leuch, 38 ans, 6 ans d’expérience en coaching et accompagnement managérial, 7 ans de finance d’entreprise en contexte international (Mexico, New York), Passionné de kite surf, stand-up, bande dessinées et sciences sociales, Trilingue ENG-ESP-FR, HEC 2005.</p>
+		</div>
+	</div>
+
 	<div class="row">
 		<div class="six columns">
 
