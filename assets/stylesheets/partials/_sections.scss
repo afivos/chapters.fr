@@ -477,6 +477,10 @@
 .section-contact {
   width: 100% !important;
 
+  .row:first-of-type {
+    margin-bottom: 2.5rem;
+  }
+
 	p {
 		margin-top: 0.25rem;
 	}
