@@ -55,7 +55,7 @@
 			<?php $articles = $blog->children()->filterBy('category', $currentCategory)->not($page)->flip()->limit(3); ?>-->
 
 			<!-- Related blogposts -->
-			<?php $articles = $page->related()->pages(','); ?>
+			<?php $articles = $page->related()->pages(',')->limit(3); ?>
 
 			    <?php if($articles->count()): ?>
 					<h3 class="text-center">Related posts</h3>
