@@ -2,7 +2,7 @@ Title: Exemple client : Drive in London (Séminaire annuel)
 
 ----
 
-Coverimage: city-of-london-735081_1280.jpg
+Coverimage: london1.png
 
 ----
 
@@ -34,7 +34,7 @@ Cabinet de recrutement de 30 personnes de dimension internationale.
 
 Après une belle année en terme de performance, l’enjeu pour la Direction est de senioriser le niveau de discours des consultants sur le leadership pour affirmer son positionnement.
 
-(image: triptique-drive.png)
+(image: london2.png)
 
 # Histoire du séminaire
 

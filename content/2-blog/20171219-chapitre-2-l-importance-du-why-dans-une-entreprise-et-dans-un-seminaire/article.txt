@@ -2,7 +2,7 @@ Title: Chapitre 2: L'importance du WHY dans une entreprise...et dans un séminai
 
 ----
 
-Coverimage: michal-grosicki-366027.jpg
+Coverimage: img3chap2.png
 
 ----
 
@@ -10,7 +10,7 @@ Date: 2017-12-19
 
 ----
 
-Category: Tips de management, Principes de management, Chapters
+Category: Chapters
 
 ----
 
@@ -34,7 +34,7 @@ Le moteur de l'action ne se situe pas au niveau de la raison. Mais au niveau du 
 
 Comme dans Vice-Versa, le film d'animation Pixar - un excellent cours sur l'intelligence émotionnelle- où on voit dans la tête d'une petite fille les émotions aux commandes. C'est nos peurs, nos joies ou nos tristesse qui sont le moteur de nos actions. Rarement notre raison. Sinon, pourquoi est-ce que je me ressers trois fois du dessert? Pourquoi est-ce que parfois je procrastine alors qu'il faut absolument que je finisse ce rapport pour demain? Pourquoi est-ce que je ne fais pas toujours ce qu'il FAUT faire, ou ce que je DOIS faire?
 
-(image: images.jpg)
+(image: img5chap2.png)
 
 On peut extrapoler ce principe sur les organisations: les individus n'agissent pas pour des motivations rationnelles, mais parce qu'ils croient en l'action collective de leur organisation. Ils croient. Ils adhèrent au sens, mais un sens irrationnel, une croyance.
 Le management doit donc s'adresser à cette partie émotionnelle: parler de conviction, de rêve et de valeurs partagées.
@@ -42,7 +42,7 @@ Il ne s'agit pas de les imposer mais de les proposer et de les animer pour les r
 
 # La Mission est une Harmonie Sympathique
 
-(image: funny-hugh-laurie-small-piano.jpg)
+(image: img4chap2.png)
 
 Prenez un piano à queue.
 Soulevez le couvercle
@@ -63,13 +63,13 @@ Et sa Mission est simple : *Sauver le monde.* (Rien que ça oui...)
 Peut-être trouvez-vous ça pompeux ou arrogant comme Mission.
 Ses collaborateurs, eux, ne le pensent pas.
 
-(image: telechargement-2.jpg)
+(image: img1chap2.png)
 
 # Concrètement dans une entreprise...
 
 Si la Raison d'Être de Décathlon est de *Faciliter l'accès au sport*, cela devient la grille de lecture du recrutement : un esprit pédagogique et une passion pour le sport. Avec une tagline *Venez comme vous êtes*, Mac Donald doit être intraitable sur sa politique de discrimination. Avec la devise *Bougez avec la Poste*, et au vu des files d'attente dans ses bureaux, elle avait certainement raison de changer de devise !
 
-(image: 16-see-through-toilet-why-funny.jpg)
+(image: img2chap2.png)
 
 La Mission doit être la ligne d'horizon de toutes les décisions: en quoi ce rapprochement, cette réorganisation aidera-t-elle à servir sa Mission? En quoi ce nouveau logiciel participe à la Raison d'Être?
 

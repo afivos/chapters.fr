@@ -2,7 +2,7 @@ Title: Exemple client : Prendre de la hauteur (Séminaire annuel sur la Vision)
 
 ----
 
-Coverimage: picdumidi.jpg
+Coverimage: vision.png
 
 ----
 
@@ -34,7 +34,7 @@ Le Comité de Direction d'une agence de communication internationale.
 
 Le Comité de Direction souhaitait se retrouver et prendre du recul pour réfléchir aux orientations stratégiques à prendre pour l'entreprise.
 
-(image: triptique-vision.png)
+(image: vision2.png)
 
 # Histoire du séminaire
 

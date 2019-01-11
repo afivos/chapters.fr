@@ -2,7 +2,7 @@ Title: Exemple client : Assemblage d'un Grand Cru (Fusion)
 
 ----
 
-Coverimage: village-de-saint-emilion-credit-anne-lanta-1200x803.jpg
+Coverimage: cru1.png
 
 ----
 
@@ -34,7 +34,7 @@ Une entreprise du secteur du tourisme d’une cinquantaine de personnes vient de
 
 Le rachat a été annoncé il y a 6 mois et s’il y a beaucoup de complémentarités et des synergies évidentes entre les deux entités, la communication et les relations restent parfois difficiles
 
-(image: triptique-fusion.png)
+(image: cru2.png)
 
 # Histoire du séminaire
 

@@ -2,7 +2,7 @@ Title: Chapitre 17: 7 clés  pour une prise de parole réussie, la 5ème va vous
 
 ----
 
-Coverimage: wolf.jpg
+Coverimage: img2chap17.png
 
 ----
 
@@ -51,7 +51,7 @@ Le sourire est un moyen de communication simple. Pensez-y dès le début.
 Si les annonces sont dures et que le sourire est un peu forcé, comme un sourire de politesse, il exprime un "je te vois et je suis avec toi" qui met de l'huile dans les rouages de votre communication. Il ne dit pas que vous êtes content ou inconscient de ce qui se joue, il dit que vous êtes connecté à celui que vous regardez et qui vous regarde.
 Souriez dès le début, en balayant la salle du regard.
 
-(image: 6a08a65d-4d9a-49fe-b1a9-f297552bc022.jpg)
+(image: img1chap17.png)
 
 # 2 Préparer tout. Ou au moins l'intro. Ou au moins les premières phrases
 
@@ -68,7 +68,7 @@ Et pourtant le fameux écran bleu ((link: https://www.youtube.com/watch?v=IW7Rqw
 Votre présentation plante, votre micro ne marche plus, vous avez un trou de mémoire, le téléphone dans votre poche se met à sonner...
 Bien sûr qu'il n'est pas agréable d'être pris en défaut et de se retrouver à devoir gérer un imprévu.
 
-(image: images-2.jpg)
+(image: img4chap17.png)
 
 Dans ce cas là, 2 choses:
 1) Ralentir et prendre son temps
@@ -93,7 +93,7 @@ Cela vous paraîtra interminable. En revanche, tout le monde va peu à peu se ta
 C'est le moyen le plus  simple de rendre le moment solennel et de rendre ce que vous allez dire important.
 De même, tout au long de votre intervention, marquez des blancs entre vos différentes idées ou pour appuyer une transition.
 
-(image: image.png)
+(image: img5chap17.png)
 
 # 6 Ra. Lent. Issez
 
@@ -113,7 +113,7 @@ L'excitation fait augmenter le rythme cardiaque, empêche de dormir, rend fébr
 
 Ce sont les mêmes symptômes. Pourquoi appeler cela de telle ou telle façon ? Pourquoi ne pas appeler cet état différemment ?
 
-(image: images-3.jpg)
+(image: img3chap17.png)
 
 Coupez la parole aux petites  voix agaçantes et imposez leur votre propre vérité en vous répétant mentalement une phrase..
 

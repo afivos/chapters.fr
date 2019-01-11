@@ -2,7 +2,7 @@ Title: Chapitre 1: Pourquoi Chapters?
 
 ----
 
-Coverimage: raphael-schaller-88040-unsplash-1200x800.jpg
+Coverimage: img3chap1.png
 
 ----
 
@@ -10,7 +10,7 @@ Date: 2017-12-06
 
 ----
 
-Category: Principes de management, Chapters
+Category: Principes de management
 
 ----
 
@@ -51,7 +51,7 @@ Cette capacité à parler de fiction nous permet d'imaginer des choses, mais aus
 Fourmis et abeilles peuvent aussi travailler ensemble en grand nombre mais elles le font de manière très rigide et uniquement avec des proches parents. Loups et chimpanzés coopèrent avec bien plus de souplesse que les fourmis, mais ils ne peuvent le faire qu'avec des petits nombres d'autres individus qu'ils connaissent intimement.
 L'Homme peut coopérer de manière extrêmement flexible avec d'innombrables inconnus. Grâce à la fiction.
 
-(image: czzzz.jpg)
+(image: img1chap1.png)
 
 *"C'est ce qui permet de diriger le monde pendant que les fourmis mangent nos restes et que les chimpanzés sont enfermés dans les zoos et les laboratoires de recherche."* (oui, il est un peu cynique, M. Harari, en fait...)
 
@@ -73,8 +73,6 @@ Les psychologues du travail ont repris le concept pour décrire le phénomène 
 - il y a le burn-out qui traduit un surinvestissement et un excès de pression chez les salariés,
 - le bore-out qui correspond à une absence totale d'objectif ou d'enjeu, un excès d'oisivité (qui d'ailleurs a les mêmes symptômes physiologiques que le burn-out),
 - voici le phénomène du brown-out. Il se caractérise par une perte de sens et de repères. Quelle est la finalité de mon action? A quoi sert ce rapport? Cette mission? Ou l'enfer kafkaïen d'un travail vide de sens.
-
-(image: imagesdzazfdzafza-2.jpg)
 
 Dans un monde de l'entreprise qui se transforme de plus en plus vite, où les organisations se réorganisent en permanence, se raconter l'histoire de ce qui est en train de se passer est fondamental pour accompagner l'entreprise.
 
@@ -103,7 +101,7 @@ La forme est aussi une façon de représenter l'identité de l'entreprise. Qu'es
 
 Un château cossu dans le Pays de la Loire, un restaurant branché de Barcelone, un hôtel moderne en bord de mer, un loft arty de Berlin... Tellement de possibilités !
 
-(image: john-stewart-gif.gif)
+(image: img2chap1.png)
 
 Chez Chapters, on propose donc des expériences collectives, à la fois rationnelles et émotionnelles  pour servir le sens de ce moment collectif.
 

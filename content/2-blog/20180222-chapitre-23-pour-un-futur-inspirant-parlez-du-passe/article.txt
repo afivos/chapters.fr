@@ -2,7 +2,7 @@ Title: Chapitre 23: Pour un futur inspirant, parlez du passé !
 
 ----
 
-Coverimage: pablo-garcia-saldana-94058-unsplash.jpg
+Coverimage: img1.png
 
 ----
 
@@ -10,11 +10,11 @@ Date: 2018-02-22
 
 ----
 
-Category: Tips de management, Principes de management
+Category: Tips de management
 
 ----
 
-Related: 
+Related: blog/chapitre-17-7-cles-pour-une-prise-de-parole-reussie-la-5eme-va-vous-surprendre, blog/chapitre-2-l-importance-du-why-dans-une-entreprise-et-dans-un-seminaire, blog/chapitre-1-pourquoi-chapters
 
 ----
 
@@ -38,7 +38,7 @@ Vous réunissez vos équipes lors d’un séminaire afin de les embarquer autour
 Bien sûr, il faudra pendant ce séminaire parler de l'avenir, de ce qui vous attend, du pourquoi on va y aller, de comment on va atteindre ces objectifs...
 Pourtant, avant cela, il est important de parler du passé.
 
-(image: telechargement-4-1.jpg)
+(image: img3.png)
 
 Cela peut paraître contre-intuitif : *"à quoi cela sert de ressasser le passé ? le passé c'est le passé !"*
 
@@ -64,7 +64,7 @@ La raconter à nouveau lui donne une nouvelle dimension, une nouvelle fraîcheur
 Reconnaître signifie littéralement naître à nouveau ensemble. C'est une posture d'empathie de la part du manager de rappeler ce qui a été accompli, l'investissement de chacun, les qualités qui ont été mobilisées au cours de la période.
 Cela renforce la proximité et la solidarité.
 
-(image: telechargement-5.jpg)
+(image: img4.png)
 
 Et c'est surtout un prérequis pour que l'auditoire puisse pleinement écouter: l'absence de bilan peut générer de l'opposition. *"Ils ne se rendent pas compte." "Tout ce qu'on a fait n'a servi à rien, on n'en parle plus."* Ces réactions peuvent occuper les esprits, parasiter l'attention.
 Reconnaître les efforts permet donc de traiter ce qui pourrait se retourner en résistance.
@@ -89,7 +89,7 @@ En analysant froidement, l'objectif est de transformer l'échec en apprentissage
 
 Dans la série *les poncifs du management trop partagés sur Linkedin*: "Dans la vie, soit je gagne, soit j'apprends." (Neslon Mandela).
 
-(image: mandela4.jpg)
+(image: img2.png)
 
 N'oublions pas le ton de ce bilan
 Un bilan doit être sincère, courageux et bienveillant. Il faut être capable de se dire franchement les choses pour pouvoir avancer. Et de la même manière, il ne doit pas être culpabilisant mais factuel...

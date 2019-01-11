@@ -2,7 +2,7 @@ Title: Exemple client : Traditions Toscanes (Incentive)
 
 ----
 
-Coverimage: palio-siena-italy.jpg
+Coverimage: toscane1.png
 
 ----
 
@@ -34,7 +34,7 @@ Les équipes commerciales d'un célèbre maroquinier.
 
 La direction souhaite remercier sa force commerciale avec une expérience mémorable et unique qui valorise l'Histoire et l'Artisanat.
 
-(image: triptique-traditions-toscanes.png)
+(image: toscane2.png)
 
 # Histoire du séminaire
 
