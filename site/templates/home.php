@@ -119,9 +119,10 @@
                 <img src="assets/images/easymovie.png">
             </div>
         </div>
-        <hr>
     </div>
+    <!--
     <div class="container">
+        <hr>
         <h1>Quelques mots de nos clients:</h1>
         <div class="row">
             <div class="six columns">
@@ -134,6 +135,7 @@
             </div>
         </div>
     </div>
+    -->
 </div>
 
 <div class="container-image container-image-people">
