@@ -22,14 +22,14 @@ fields:
     required: true
     width: 1/2
 
-  category:
-    label: Category
-    # type: quickselect to select only one
-    type: multiselect
-    options: field
-    field:
-      page: ../
-      name: categories
+  # category:
+  #   label: Category
+  #   # type: quickselect to select only one
+  #   type: multiselect
+  #   options: field
+  #   field:
+  #     page: ../
+  #     name: categories
 
   related:
     label: Related pages

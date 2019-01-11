@@ -28,9 +28,9 @@ fields:
     default: 5
     width: 1/4
 
-  categories:
-    label: Categories
-    type: tags
+  # categories:
+  #   label: Categories
+  #   type: tags
 
   text:
     label: Text

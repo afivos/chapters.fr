@@ -49,8 +49,13 @@
 	<div class="blogpost-meta-row section-blog">
 
 		<div class="row section-blog-row">
+			<!-- The last one is the one that works -->
+
+			<!-- Blogposts of the same category (doesn't work properly if a blogpost belongs in more than one category)
+			<?php $articles = $blog->children()->filterBy('category', $currentCategory)->not($page)->flip()->limit(3); ?>-->
+
+			<!-- Related blogposts -->
 			<?php $articles = $page->related()->pages(','); ?>
-			<?php $articles = $blog->children()->filterBy('category', $currentCategory)->not($page)->flip()->limit(3); ?>
 
 			    <?php if($articles->count()): ?>
 					<h3 class="text-center">Related posts</h3>
