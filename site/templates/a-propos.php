@@ -1,7 +1,7 @@
 <?php snippet('header-long') ?>
 
 <div class="container container-light-grey away-from-top section-contact">
-	<h3>Contact</h3>
+	<h3><?= $page->title()->html() ?></h3>
 	<div class="row">
 		<div class="six columns">
 

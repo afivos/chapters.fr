@@ -23,12 +23,6 @@
             <div class="five columns">
                 <div class="navbar">
                     <ul>
-                        <!--
-                        <li><a href="/">Accueil</a></li>
-                        <li><a href="/blog.html">Blog</a></li>
-                        <li><a href="/contact.html">Contact</a></li>
-                    -->
-
                         <?php foreach($pages->visible() as $item): ?>
                             <li><a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a></li>
                         <?php endforeach ?>
