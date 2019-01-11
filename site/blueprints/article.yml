@@ -42,8 +42,8 @@ fields:
 
   author:
     label: Author
-    type: user
-    default: Pierre
+    # type: user
+    default: Pierre Le Leuch
   
   text:
     label: Text
