@@ -15,7 +15,7 @@
             <p>Des solutions concrètes et actionnables, appuyées sur de solides bases théoriques</p>
         </div>
         <div class="four columns section section-grey">
-            <p>Une approche actuelle du management (notre écosystème : Tech, Startup &amp; Nouvelles générations)</p>
+            <p>Une approche actuelle du management (notre écosystème : Tech  &amp; Startup)</p>
         </div>
     </div>
 </div>

@@ -30,7 +30,7 @@
                         <!--<li><a>EN</a></li>-->
                     </ul>
                 </div>
-                <p class="subtitle-two"><strong><em>Low tech, High Future</em></strong> → ce site a été conçu pour réduire l’empreinte environnementale du numérique </p>
+                <p class="subtitle-two"><strong><em>Low tech, High Future</em></strong> → ce site a été conçu pour réduire son empreinte environnementale</p>
             </div>
         </div>
     </div>
