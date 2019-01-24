@@ -26,7 +26,7 @@
             <span class="dot dot-left"></span>
         </div>
         <div class="ten columns text-center">
-            <h1>Un nouveau chapitre <br clear="hidden-xs">dans l'historie de votre équipe</h1>
+            <h1>Un nouveau chapitre <br clear="hidden-xs">dans l'histoire de votre équipe</h1>
         </div>
         <div class="one columns text-right">
             <span class="dot dot-right"></span>
@@ -144,8 +144,8 @@
             <h4>Chapters, c'est aussi des solutions clé en main de séminaires team-building ou de conventions annuelles:</h4>
             <ul>
                 <li><p>Un moment fort pour des souvenirs inoubliables</p></li>
-                <li><p>Des forumales qui mêlent efficacement sessions de travails et moments festifs</p></li>
-                <li><p>Format 2-3 jours dans des grandes villes françaises ou européenes (City-Trip)</p></li>
+                <li><p>Des formules qui mêlent efficacement sessions de travails et moments festifs</p></li>
+                <li><p>Format 2-3 jours dans des grandes villes françaises ou européennes (City-Trip)</p></li>
             </ul>
         </div>
     </div>
