@@ -46,17 +46,16 @@ else{
 
 	<div class="row">
 		<div class="six columns">
-			<img src="assets/images/photocontact.png">
+	        <?php
+	        // try to get an image object
+	        $image = $page->profileImg()->toFile();
+	        // check if image exists
+	        if($image): ?>
+		        <img src="<?php echo $image->url(); ?>" alt="">
+	        <?php endif ?>
 		</div>
 		<div class="six columns">
-			<h2>Pierre Le Leuch</h2>
-			<p><script>displayage(1981, 1, 1, "ans", 0, "rounddown")</script></p>
-			<p>Passionné par le management sous toutes ses formes, je pratique le coaching en entreprise et l’accompagnement managérial depuis 6 ans. J’ai eu la chance d’intervenir dans des secteurs variés (luxe, retail, media) et des contextes enrichissants (hypercroissance, PSE, enjeux syndicaux). Un peu geek sur les bords et avide de comprendre les changements qui nous entourent, je me suis spécialisé dans les secteurs des nouvelles technologies et des start-up.</p>
-			<p>Avant cela, j’ai connu une première vie professionnelle de 7 ans dans le monde de la finance d’entreprise, en cabinet et en direction financière, dans des contextes internationaux (Mexique, New York City).</p>
-			<p>En 2008, j’ai assisté à l’histoire en voyant des fenêtres de mon bureau les employés de Lehman Brothers sortir avec leur carton. Je me suis dit que c’était la fin d’une époque ! ;)</p>
-			<p>Aujourd’hui, quand je ne travaille pas, je profite de mes autres passions pour me ressourcer : le kite-surf, le stand-up (les spectacles, pas le paddle), les bandes dessinées, les sciences sociales (livres, podcasts, conférences..) et les jeux vidéos.</p>
-			<p>Trilingue Anglais-Espagnol-Français</p>
-			<p>Diplômé d’HEC 2005</p>
+			<?= $page->bio()->kirbytext() ?>
 		</div>
 	</div>
 
@@ -104,10 +103,7 @@ else{
 
 		</div>
 		<div class="six columns">
-			<p>Téléphone :<br><a href="tel:0756924800">07 56 92 48 00</a></p>
-			<p>Email :<br><a href="mailto: contact@chapters.fr">contact@chapters.fr</a></p>
-			<p>Siège :<br>5 rue du Faubourg<br>Saint-Antoine 75011 Paris</p>
-			<p>Bureau :<br>23 rue du Cherche Midi<br>75006 Paris</p></p>
+			<?= $page->contactinfo()->kirbytext() ?>
 		</div>
 	</div>
 </div>

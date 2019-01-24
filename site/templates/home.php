@@ -2,15 +2,13 @@
 
 <div class="container image-overlay image-overlay-home">
     <figure class="hidden-xs">
-
-<?php
-// try to get an image object
-$image = $page->mainImg()->toFile();
-// check if image exists
-if($image): ?>
-<img src="<?php echo $image->url(); ?>" alt="">
-<?php endif ?>
-
+        <?php
+        // try to get an image object
+        $image = $page->mainImg()->toFile();
+        // check if image exists
+        if($image): ?>
+        <img src="<?php echo $image->url(); ?>" alt="">
+        <?php endif ?>
     </figure>
 </div>
 
