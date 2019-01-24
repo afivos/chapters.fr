@@ -93,7 +93,7 @@
     </div>
 </div>
 
-<div class="container-dark">
+<div class="container-dark section-logos-testimonials">
     <div class="container hidden-sm">
         <h1>Ils nous font confiance :</h1>
         <div class="row text-center">
@@ -123,22 +123,30 @@
             </div>
         </div>
     </div>
-    <!--
     <div class="container">
         <hr>
         <h1>Quelques mots de nos clients :</h1>
         <div class="row">
             <div class="six columns">
-                <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel melasuada dui, eget malesuada tellus."</p>   
-                <p>Arthur d'Yvoire, CEO d'Arcane</p>
+                <p>« Pierre a accompagné mon équipe pour faire évoluer le rôle attendu des Managers. Le programme a été une vraie réussite tant par l’adhésion qu’il a permis autour du projet que pour les techniques et méthodes que Pierre a su transmettre et qui sont aujourd’hui autant de références partagées qui nous permettent de travailler de manière plus fluide et plus efficace. »</p>   
+                <p>CH Hénault, Directeur de Analytics and Data Science chez Criteo</p>
             </div>
             <div class="six columns">
-                <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel melasuada dui, eget malesuada tellus."</p>   
-                <p>Mathilde Bauret, Head of HR de 55</p>
+                <p>« A un moment clé du développement de notre entreprise, Chapters nous a accompagné dans la conception et la formalisation de notre vision de notre culture managériale. Grâce à cet accompagnement professionnel, attentif et respectueux de notre histoire nous avons réussi à construire avec nos équipes, le projet qui nous guide aujourd'hui. »</p>   
+                <p>Clément Marcorelles, Président de Wine Services</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="six columns">
+                <p>« En tant que startup en hyper-croissance, il était prioritaire pour nous de structurer rapidement notre management et de développer nos managers intermédiaires. Cela nous permettait aussi pour nous de prendre du recul en tant qu’associés. En co-construisant notre culture managériale et en nous formant à des outils opérationnels de team-building et de management, Chapters nous a accompagné vers une nouvelle dimension dans notre développement. »</p>   
+                <p>Arthur D’Yvoire, CEO d’Arcane</p>
+            </div>
+            <div class="six columns">
+                <p>« Des formations dynamiques et très concrètes pour nos managers et notre Comité de Direction, riches en solutions opérationnelles. »</p>   
+                <p>Anne-Sophie Madoire-Rouzaud, DRH Groupe Adikteev</p>
             </div>
         </div>
     </div>
-    -->
 </div>
 
 <div class="container-image container-image-people">
