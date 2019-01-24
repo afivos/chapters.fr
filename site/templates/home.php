@@ -98,25 +98,25 @@
         <h1>Ils nous font confiance :</h1>
         <div class="row text-center">
             <div class="three columns">
-                <img src="assets/images/55white.png">
+                <img src="assets/images/ubisoftwhite.png">
             </div>
             <div class="three columns">
                 <img src="assets/images/criteowhite.png">
             </div>
             <div class="three columns">
-                <img src="assets/images/prontowhite.png">
-            </div>
-            <div class="three columns">
-                <img src="assets/images/ubisoftwhite.png">
+                <img src="assets/images/55white.png">
             </div>
             <div class="three columns">
                 <img src="assets/images/adikteev.png">
             </div>
             <div class="three columns">
+                <img src="assets/images/easymovie.png">
+            </div>
+            <div class="three columns">
                 <img src="assets/images/arcane.png">
             </div>
             <div class="three columns">
-                <img src="assets/images/easymovie.png">
+                <img src="assets/images/prontowhite.png">
             </div>
             <div class="three columns">
                 <img src="assets/images/ppcom-white.svg">
