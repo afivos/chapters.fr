@@ -6,7 +6,7 @@ Coverimage: img1.png
 
 ----
 
-Date: 2018-02-22
+Date: 2018-12-13
 
 ----
 
@@ -14,7 +14,7 @@ Category: Tips de management
 
 ----
 
-Related: blog/chapitre-17-7-cles-pour-une-prise-de-parole-reussie-la-5eme-va-vous-surprendre, blog/chapitre-2-l-importance-du-why-dans-une-entreprise-et-dans-un-seminaire, blog/chapitre-1-pourquoi-chapters
+Related: blog/chapitre-17-7-cles-pour-une-prise-de-parole-reussie-la-5eme-va-vous-surprendre, blog/chapitre-1-pourquoi-chapters, blog/chapitre-2-l-importance-du-why-dans-une-entreprise-et-dans-un-seminaire
 
 ----
 
@@ -103,4 +103,4 @@ Le bilan est un exercice collectif puissamment inspirant.
 Bien réalisé, il énergise et met dans de bonnes dispositions l'auditoire pour se projeter ensuite sur un nouveau projet.
 Un séminaire réussi commence donc souvent par un bon bilan.
 
-*Chez Chapters, nous accompagnons nos clients pour des séminaires clés en main, réussis sur le fond comme sur la forme. A la fois consultants en management, tour operator et agence événementielle, on s'occupe de tout!*
+*Chez Chapters, nous accompagnons nos clients pour des formations au management ou des séminaires clés en main, réussis sur le fond comme sur la forme. A la fois consultants en management et tour operator, on s'occupe de tout!*

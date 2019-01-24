@@ -1,4 +1,4 @@
-Title: Chapitre 1: Pourquoi Chapters?
+Title: Chapitre 11: Pourquoi un séminaire, c'est comme un Chapitre ?
 
 ----
 
@@ -6,7 +6,7 @@ Coverimage: img3chap1.png
 
 ----
 
-Date: 2017-12-06
+Date: 2018-07-18
 
 ----
 
@@ -105,6 +105,4 @@ Un château cossu dans le Pays de la Loire, un restaurant branché de Barcelone,
 
 Chez Chapters, on propose donc des expériences collectives, à la fois rationnelles et émotionnelles  pour servir le sens de ce moment collectif.
 
-Vous trouverez plus d'élément sur notre approche (link: http://chapters.fr/approche text: ici). Et aussi des exemples de projets (link: /blog?category=business-case-les-projets text: ici).
-
-*Chez Chapters, nous accompagnons nos clients pour des séminaires impactants clés en main, réussis sur le fond comme sur la forme. A la fois consultants en management, tour operator et agence événementielle, on s'occupe de tout !*
+*Chez Chapters, nous accompagnons nos clients pour des séminaires impactants clés en main, réussis sur le fond comme sur la forme. A la fois consultants en management et tour operator, on s'occupe de tout !*

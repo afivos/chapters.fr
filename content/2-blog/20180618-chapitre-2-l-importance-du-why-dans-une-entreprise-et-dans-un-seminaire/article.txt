@@ -1,4 +1,4 @@
-Title: Chapitre 2: L'importance du WHY dans une entreprise...et dans un séminaire
+Title: Chapitre 2: L'importance du WHY dans une entreprise...et une formation ou un séminaire !
 
 ----
 
@@ -6,7 +6,7 @@ Coverimage: img3chap2.png
 
 ----
 
-Date: 2017-12-19
+Date: 2018-06-18
 
 ----
 
@@ -84,4 +84,4 @@ Sur la formulation, nous préconisons des verbes qui traduisent une situation pl
 
 Il s'agit ensuite de faire vivre ce but. Un séminaire doit être une expérience qui fait vibrer son sens chez chaque collaborateur, à travers le fond partagé (les messages, les projets...), mais aussi à travers sa forme, l'expérience vécue.
 
-*Chez Chapters, nous accompagnons nos clients pour des séminaires clés en main, réussis sur le fond comme sur la forme. A la fois consultants en management, tour operator et agence événementielle, on s'occupe de tout!*
+*Chez Chapters, nous accompagnons nos clients pour des formations et des séminaires clés en main, réussis sur le fond comme sur la forme. A la fois consultants en management et tour operator, on s'occupe de tout!*
