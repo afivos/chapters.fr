@@ -7,3 +7,156 @@ Intro:
 ----
 
 Text: 
+
+----
+
+Testimonial1: 
+
+« Pierre a accompagné mon équipe pour faire évoluer le rôle attendu des Managers. Le programme a été une vraie réussite tant par l’adhésion qu’il a permis autour du projet que pour les techniques et méthodes que Pierre a su transmettre et qui sont aujourd’hui autant de références partagées qui nous permettent de travailler de manière plus fluide et plus efficace. »
+
+CH Hénault, Directeur de Analytics and Data Science chez Criteo
+
+----
+
+Testimonial2: 
+
+« Des formations dynamiques et très concrètes pour nos managers et notre Comité de Direction, riches en solutions opérationnelles. »
+
+Anne-Sophie Madoire-Rouzaud, DRH Groupe Adikteev
+
+----
+
+Testimonial3: 
+
+« En tant que startup en hyper-croissance, il était prioritaire pour nous de structurer rapidement notre management et de développer nos managers intermédiaires. Cela nous permettait aussi pour nous de prendre du recul en tant qu’associés. En co-construisant notre culture managériale et en nous formant à des outils opérationnels de team-building et de management, Chapters nous a accompagné vers une nouvelle dimension dans notre développement. »
+
+Arthur D’Yvoire, CEO d’Arcane
+
+----
+
+Testimonial4: 
+
+« A un moment clé du développement de notre entreprise, Chapters nous a accompagné dans la conception et la formalisation de notre vision de notre culture managériale. Grâce à cet accompagnement professionnel, attentif et respectueux de notre histoire nous avons réussi à construire avec nos équipes, le projet qui nous guide aujourd'hui. »
+
+Clément Marcorelles, Président de Wine Services
+
+----
+
+Feature1: Un programme et un contenu au service de vos enjeux business
+
+----
+
+Feature2: Des solutions concrètes et actionnables, appuyées sur de solides bases théoriques
+
+----
+
+Feature3: Une approche actuelle du management (notre écosystème : Tech & Startup)
+
+----
+
+Logo: ppcom-white.svg
+
+----
+
+Partners: 
+
+- 
+  image: ubisoftwhite.png
+- 
+  image: criteowhite.png
+- 
+  image: 55white.png
+- 
+  image: adikteev.png
+- 
+  image: easymovie.png
+- 
+  image: arcane.png
+- 
+  image: prontowhite.png
+- 
+  image: ppcom-white.svg
+
+----
+
+Testimonials: 
+
+- 
+  text: |
+    « Pierre a accompagné mon équipe pour faire évoluer le rôle attendu des Managers. Le programme a été une vraie réussite tant par l’adhésion qu’il a permis autour du projet que pour les techniques et méthodes que Pierre a su transmettre et qui sont aujourd’hui autant de références partagées qui nous permettent de travailler de manière plus fluide et plus efficace. »
+    
+    CH Hénault, Directeur de Analytics and Data Science chez Criteo
+- 
+  text: |
+    « A un moment clé du développement de notre entreprise, Chapters nous a accompagné dans la conception et la formalisation de notre vision de notre culture managériale. Grâce à cet accompagnement professionnel, attentif et respectueux de notre histoire nous avons réussi à construire avec nos équipes, le projet qui nous guide aujourd'hui. »
+    
+    Clément Marcorelles, Président de Wine Services
+- 
+  text: |
+    « En tant que startup en hyper-croissance, il était prioritaire pour nous de structurer rapidement notre management et de développer nos managers intermédiaires. Cela nous permettait aussi pour nous de prendre du recul en tant qu’associés. En co-construisant notre culture managériale et en nous formant à des outils opérationnels de team-building et de management, Chapters nous a accompagné vers une nouvelle dimension dans notre développement. »
+    
+    Arthur D’Yvoire, CEO d’Arcane
+- 
+  text: |
+    « Des formations dynamiques et très concrètes pour nos managers et notre Comité de Direction, riches en solutions opérationnelles. »
+    
+    Anne-Sophie Madoire-Rouzaud, DRH Groupe Adikteev
+
+----
+
+List1: 
+
+#### Renforcer votre middle-management pour vous développer
+
+- Former vos équipes à la posture managériale pour en faire des relais de croissance performants
+- Accompagner l'hypercroissance (scale-up)
+
+----
+
+List2: 
+
+#### Asseoir votre posture en tant que leader
+
+- Développer vos performances à travers le coaching individuel
+- Augmenter votre impact grâce à des outils de développement individuel
+
+----
+
+List3: 
+
+#### Fidéliser vos équipes
+
+- Formaliser et partager une culture managériale à votre image
+- Utiliser la formation comme levier de fidélisation
+
+----
+
+List4: 
+
+#### Accompagner le changement
+
+- Préparer, planifier et déployer de façon efficace une réorganisation ou une reprise d'équipe
+- Fiabiliser les messages et leurs communications
+- Favoriser l'appropriation par l'accompagnement
+
+----
+
+Heading1: # Un nouveau chapitre <br clear="hidden-xs">dans l'histoire de votre équipe
+
+----
+
+Heading2: # (link: /a-propos text: Contactez-nous)
+
+----
+
+List5: 
+
+#### Chapters, c'est aussi des solutions clé en main de séminaires team-building ou de conventions annuelles :
+
+- Un moment fort pour des souvenirs inoubliables
+- Des formules qui mêlent efficacement sessions de travails et moments festifs
+- Format 2-3 jours dans des grandes villes françaises ou européennes (City-Trip)
+
+----
+
+Mainimg: home2.png

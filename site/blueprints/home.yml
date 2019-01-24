@@ -7,10 +7,101 @@ fields:
     label: Title
     type:  text
 
-  intro:
-    label: Intro
-    type:  textarea
+  # Main image
+  mainImg:
+    label: Main image
+    type: image 
 
-  text:
-    label: Text
-    type:  textarea
+  # Features
+  feature1:
+    label: Feature 1
+    type: textarea
+    width: 1/3
+
+  feature2:
+    label: Feature 2
+    type: textarea
+    width: 1/3
+
+  feature3:
+    label: Feature 3
+    type: textarea
+    width: 1/3
+
+  # Heading
+  heading1:
+    label: Heading 1
+    type: text
+
+  # Features (list)
+  list1:
+    label: List 1
+    type: textarea
+    width: 1/2
+
+  list2:
+    label: List 2
+    type: textarea
+    width: 1/2
+
+  list3:
+    label: List 3
+    type: textarea
+    width: 1/2
+
+  list4:
+    label: List 4
+    type: textarea
+    width: 1/2
+
+  # Heading
+  heading2:
+    label: Heading 2
+    type: text
+
+  # Partners
+  partners:
+    label: Partners
+    type: structure
+    style: table
+    fields:
+      image:
+        label: Logos
+        type: select
+        options: images
+
+  # Testimonials
+  # testimonials:
+  #   label: Testimonials
+  #   type: structure
+  #   style: table
+  #   fields:
+  #     text:
+  #       label: Testimonial
+  #       type: textarea
+
+  # Client testimonials
+  testimonial1:
+    label: Testimonial 1
+    type: textarea
+    width: 1/2
+
+  testimonial2:
+    label: Testimonial 2
+    type: textarea
+    width: 1/2
+
+  testimonial3:
+    label: Testimonial 3
+    type: textarea
+    width: 1/2
+
+  testimonial4:
+    label: Testimonial 4
+    type: textarea
+    width: 1/2
+
+  # Features (list)
+  list5:
+    label: List 5
+    type: textarea
