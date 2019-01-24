@@ -1,4 +1,4 @@
-Title: Chapitre 23: Pour un futur inspirant, parlez du passé !
+Title: Chapitre 23 : Pour un futur inspirant, parlez du passé !
 
 ----
 
@@ -24,7 +24,7 @@ Author: Pierre Le Leuch
 
 Text: 
 
-# Chapitre 23: Pour un futur inspirant, parlez du passé !
+# Chapitre 23 : Pour un futur inspirant, parlez du passé !
 
 Vous entamez une nouvelle phase dans votre développement ? L'année a été difficile et vous souhaitez relancer vos équipes ? Il faut changer votre approche et impulser une nouvelle dynamique ?
 

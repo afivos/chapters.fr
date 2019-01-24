@@ -1,4 +1,4 @@
-Title: Chapitre 2: L'importance du WHY dans une entreprise...et une formation ou un séminaire !
+Title: Chapitre 2 : L'importance du WHY dans une entreprise...et une formation ou un séminaire !
 
 ----
 
@@ -24,7 +24,7 @@ Author: Pierre Le Leuch
 
 Text: 
 
-# Chapitre 2: L'importance du WHY dans une entreprise...et dans un séminaire
+# Chapitre 2 : L'importance du WHY dans une entreprise...et dans un séminaire
 
 Mission, Raison d'Être, Rêve ou Why, ce sens commun peut être appelé de pleins de façons différentes. Il peut être explicite ou non.
 Je vous invite fortement, si vous ne l'avez pas encore fait, à investir 8 minutes de votre temps en regardant la conférence TED Start with Why de Simon Sinek. C'est ici.
