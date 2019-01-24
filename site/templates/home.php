@@ -118,6 +118,9 @@
             <div class="three columns">
                 <img src="assets/images/easymovie.png">
             </div>
+            <div class="three columns">
+                <img src="assets/images/ppcom-white.svg">
+            </div>
         </div>
     </div>
     <!--
