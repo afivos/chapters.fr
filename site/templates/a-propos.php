@@ -54,10 +54,10 @@
 
 		</div>
 		<div class="six columns">
-			<p>Téléphone:<br><a href="tel:0756924800">07 56 92 48 00</a></p>
-			<p>Email:<br><a href="mailto: contact@chapters.fr">contact@chapters.fr</a></p>
-			<p>Siège:<br>5 rue du Faubourg<br>Saint-Antoine 75011 Paris</p>
-			<p>Bureau:<br>23 rue du Cherche Midi<br>75006 Paris</p></p>
+			<p>Téléphone :<br><a href="tel:0756924800">07 56 92 48 00</a></p>
+			<p>Email :<br><a href="mailto: contact@chapters.fr">contact@chapters.fr</a></p>
+			<p>Siège :<br>5 rue du Faubourg<br>Saint-Antoine 75011 Paris</p>
+			<p>Bureau :<br>23 rue du Cherche Midi<br>75006 Paris</p></p>
 		</div>
 	</div>
 </div>

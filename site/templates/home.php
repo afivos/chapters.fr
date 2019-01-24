@@ -15,7 +15,7 @@
             <p>Des solutions concrètes et actionnables, appuyées sur de solides bases théoriques</p>
         </div>
         <div class="four columns section section-grey">
-            <p>Une approche actuelle du management (notre écosystème: Tech, Startup &amp; Nouvelles générations)</p>
+            <p>Une approche actuelle du management (notre écosystème : Tech, Startup &amp; Nouvelles générations)</p>
         </div>
     </div>
 </div>
@@ -95,7 +95,7 @@
 
 <div class="container-dark">
     <div class="container hidden-sm">
-        <h1>Ils nous font confiance:</h1>
+        <h1>Ils nous font confiance :</h1>
         <div class="row text-center">
             <div class="three columns">
                 <img src="assets/images/55white.png">
@@ -123,7 +123,7 @@
     <!--
     <div class="container">
         <hr>
-        <h1>Quelques mots de nos clients:</h1>
+        <h1>Quelques mots de nos clients :</h1>
         <div class="row">
             <div class="six columns">
                 <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel melasuada dui, eget malesuada tellus."</p>   
@@ -141,7 +141,7 @@
 <div class="container-image container-image-people">
     <div class="container">
         <div class="section section-orange">
-            <h4>Chapters, c'est aussi des solutions clé en main de séminaires team-building ou de conventions annuelles:</h4>
+            <h4>Chapters, c'est aussi des solutions clé en main de séminaires team-building ou de conventions annuelles :</h4>
             <ul>
                 <li><p>Un moment fort pour des souvenirs inoubliables</p></li>
                 <li><p>Des formules qui mêlent efficacement sessions de travails et moments festifs</p></li>
