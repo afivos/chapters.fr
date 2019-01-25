@@ -13,7 +13,9 @@
                 <a href="<?= $site->url() ?>" class="logo"><h1>Chapters</h1></a>
                 <div class="row">
                     <div class="six columns">
-                        <p class="subtitle-one">Des coachings et formations au management pour le monde d’aujourd’hui</p>
+                        <p class="subtitle-one">
+                            <?= $site->headerSubtitle()->kirbytext() ?>
+                        </p>
                     </div>
                     <div class="six columns">
                         <img src="/assets/images/datadock.png">
@@ -22,15 +24,22 @@
             </div>
             <div class="five columns">
                 <div class="navbar">
-                    <ul>                    
+                    <ul>
                         <?php foreach($pages->visible() as $item): ?>
                             <li><a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a></li>
                         <?php endforeach ?>
-
-                        <!--<li><a>EN</a></li>-->
+                        <?php foreach($site->languages() as $language): ?>
+                            <li<?php e($site->language() == $language, ' class="active"') ?>>
+                              <a href="<?= $page->url($language->code()) ?>" class="language-switcher">
+                                <?= html($language->code()) ?>
+                              </a>
+                            </li>
+                        <?php endforeach ?>
                     </ul>
                 </div>
-                <p class="subtitle-two"><strong><em>Low tech, High Future</em></strong> → ce site a été conçu pour réduire son empreinte environnementale</p>
+                <p class="subtitle-two"><strong><em>Low tech, High Future</em></strong> → 
+                    <?= $site->lowtechhighfuture()->text() ?>
+                </p>
             </div>
         </div>
     </div>

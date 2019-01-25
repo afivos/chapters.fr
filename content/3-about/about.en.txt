@@ -1,0 +1,74 @@
+Title: About
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+----
+
+Profileimg: photocontact.png
+
+----
+
+Contactoptions: 
+
+- 
+  title: Telephone
+  icon: ""
+  text: ""
+  url: tel:0756924800
+  linktext: 07 56 92 48 00
+- 
+  title: Email
+  icon: ""
+  text: ""
+  url: 'mailto: contact@chapters.fr'
+  linktext: contact@chapters.fr
+- 
+  title: Siège
+  icon: ""
+  text: '5 rue du Faubourg<br>Saint-Antoine 75011 Paris'
+  url: ""
+  linktext: ""
+- 
+  title: Bureau
+  icon: ""
+  text: '23 rue du Cherche Midi<br>75006 Paris'
+  url: ""
+  linktext: ""
+
+----
+
+Bio: 
+
+## Pierre Le Leuch
+
+<p><script>displayage(1981, 1, 1, "years old", 0, "rounddown")</script></p>
+
+Passionate about management in all its forms, I’ve been practicing corporate coaching and supporting management teams for 6 years. I had the chance to intervene in various sectors (luxury, retail, media) and enriching contexts (hyper-growth, PSE, trade union issues). I have a geeky edge and I’m always eager to understand the changes that surround us, I’ve specialized in new technologies and start-ups sectors.
+
+Before that, I had a 7-year long professional life in the world of corporate finance, in law firm and financial management, in international contexts (Mexico, New York City).
+
+In 2008, I witnessed History by seeing through my office windows Lehman Brothers employees coming out with their cardboard. I thought it was the end of an era! ;)
+
+Today, when I'm not working, I take advantage of my other passions to relax: kite surfing, stand-up (shows, not paddle), comics, social sciences (books, podcasts, lectures ..) and video games.
+
+Trilingual English-Spanish-French
+
+Graduated from HEC 2005
+
+----
+
+Contactinfo: 
+
+Telephone:<br><a href="tel:0756924800">07 56 92 48 00</a>
+
+Email:<br>(email: contact@chapters.fr text: contact@chapters.fr)
+
+Headquarters:<br>5 rue du Faubourg<br>Saint-Antoine 75011 Paris
+
+Office:<br>23 rue du Cherche Midi<br>75006 Paris

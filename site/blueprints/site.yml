@@ -9,10 +9,71 @@ fields:
     label: Author
     type:  text
 
+  email:
+    label: Email
+    type:  email
+
   description:
     label: Description
     type:  textarea
+
+  headerSubtitle:
+    label: Header Subtitle
+    type: text
+    width: 1/2
+
+  footerSubtitle:
+    label: Footer Subtitle
+    type: text
+    width: 1/2
+
+  lowtechhighfuture:
+    label: Low Tech, High Future
+    type: text
     
   copyright:
     label: Copyright
-    type:  textarea
+    type:  text
+
+  headquartersTitle:
+    label: Headquarters Title
+    type: text
+    width: 1/5
+
+  officeTitle:
+    label: Office Title
+    type: text
+    width: 1/5
+
+  emailTitle:
+    label: Email Title
+    type: text
+    width: 1/5
+
+  socialTitle:
+    label: Social Networks Title
+    type: text
+    width: 1/5
+
+  legalTitle:
+    label: Legal Notice Title
+    type: text
+    width: 1/5
+
+  headquartersAddress:
+    label: Headquarters Address
+    type: textarea
+
+  officeAddress:
+    label: Office Address
+    type: textarea
+
+  twitter:
+    label: Twitter
+    type: text
+    width: 1/2
+
+  linkedin:
+    label: LinkedIn
+    type: text
+    width: 1/2

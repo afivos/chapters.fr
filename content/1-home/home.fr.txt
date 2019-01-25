@@ -160,3 +160,11 @@ List5:
 ----
 
 Mainimg: home2.png
+
+----
+
+Partnerstitle: Ils nous font confiance
+
+----
+
+Testimonialstitle: Ce qu’ils disent de nous

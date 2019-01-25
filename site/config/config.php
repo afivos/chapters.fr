@@ -28,3 +28,23 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+/* Multi-Language Support */
+c::set('languages', array(
+  array(
+    'code'    => 'fr',
+    'name'    => 'French',
+    'default' => true,
+    'locale'  => 'fr_FR',
+    'url'     => '/',
+  ),
+  array(
+    'code'    => 'en',
+    'name'    => 'English',
+    'locale'  => 'en_US',
+    'url'     => '/en',
+  ),
+));
+
+/* Automatic Language Detection */
+/* c::set('language.detect', true); */

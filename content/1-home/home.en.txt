@@ -1,0 +1,170 @@
+Title: Home
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+----
+
+Testimonial1: 
+
+« Pierre coached my team to rethink the expectations around the team Manager’s role. The programme has been very successful, creating strong support for the project and allowing the team to learn and use a common set of techniques and tools that are now used daily ; fostering smooth and efficient collaboration throughout the entire team. »
+
+CH Hénault, Director of Analytics and Data Science at Criteo
+
+----
+
+Testimonial2: 
+
+« Dynamic and concrete training for our managers and our Management Committee, rich in operational solutions. »
+
+Anne-Sophie Madoire-Rouzaud, HR at Adikteev Group
+
+----
+
+Testimonial3: 
+
+« As a hyper-growth startup, it was our priority to quickly structure our management and develop our middle managers. It also allowed us to step back as associates. By co-building our managerial culture and training in operational team-building and management tools, Chapters has taken us to a new dimension in our development. »
+
+Arthur D’Yvoire, Arcane CEO
+
+----
+
+Testimonial4: 
+
+« At a key moment of our business development, Chapters helped us design and formalize our vision of our managerial culture. Thanks to this professional support and this respect of our history, we managed to build with our teams, the project that guides us today. »
+
+Clément Marcorelles, Wine Services President
+
+----
+
+Feature1: A program and content to serve your business challenges
+
+----
+
+Feature2: Concrete and actionable solutions, supported by solid theoretical foundations
+
+----
+
+Feature3: A contemporary approach to management (our ecosystem: Tech, Startup)
+
+----
+
+Logo: ppcom-white.svg
+
+----
+
+Partners: 
+
+- 
+  image: ubisoftwhite.png
+- 
+  image: criteowhite.png
+- 
+  image: 55white.png
+- 
+  image: adikteev.png
+- 
+  image: easymovie.png
+- 
+  image: arcane.png
+- 
+  image: prontowhite.png
+- 
+  image: ppcom-white.svg
+
+----
+
+Testimonials: 
+
+- 
+  text: |
+    « Pierre a accompagné mon équipe pour faire évoluer le rôle attendu des Managers. Le programme a été une vraie réussite tant par l’adhésion qu’il a permis autour du projet que pour les techniques et méthodes que Pierre a su transmettre et qui sont aujourd’hui autant de références partagées qui nous permettent de travailler de manière plus fluide et plus efficace. »
+    
+    CH Hénault, Directeur de Analytics and Data Science chez Criteo
+- 
+  text: |
+    « A un moment clé du développement de notre entreprise, Chapters nous a accompagné dans la conception et la formalisation de notre vision de notre culture managériale. Grâce à cet accompagnement professionnel, attentif et respectueux de notre histoire nous avons réussi à construire avec nos équipes, le projet qui nous guide aujourd'hui. »
+    
+    Clément Marcorelles, Président de Wine Services
+- 
+  text: |
+    « En tant que startup en hyper-croissance, il était prioritaire pour nous de structurer rapidement notre management et de développer nos managers intermédiaires. Cela nous permettait aussi pour nous de prendre du recul en tant qu’associés. En co-construisant notre culture managériale et en nous formant à des outils opérationnels de team-building et de management, Chapters nous a accompagné vers une nouvelle dimension dans notre développement. »
+    
+    Arthur D’Yvoire, CEO d’Arcane
+- 
+  text: |
+    « Des formations dynamiques et très concrètes pour nos managers et notre Comité de Direction, riches en solutions opérationnelles. »
+    
+    Anne-Sophie Madoire-Rouzaud, DRH Groupe Adikteev
+
+----
+
+List1: 
+
+#### Strengthen your middle management to develop you
+
+- Train your teams to management posture to create effective growth relays
+- Accompany hyper-growth (scale-up)
+
+----
+
+List2: 
+
+#### Establish your leadership
+
+- Develop your performances through individual coaching
+- Increase your impact with individual development tools
+
+----
+
+List3: 
+
+#### Retain your teams
+
+- Formalize and share a managerial culture that reflects your identity
+- Use training as a retention lever
+
+----
+
+List4: 
+
+#### Support change
+
+- Prepare, plan and deploy effective overhaul or team take over
+- Ensure the reliability of messages and communications
+- Foster ownership through active backing
+
+----
+
+Heading1: # A new chapter <br clear="hidden-xs">in your team’s history
+
+----
+
+Heading2: # (link: /a-propos text: Contact us)
+
+----
+
+List5: 
+
+#### Chapters is also turnkey solutions for team-building seminars or annual conventions:
+
+- A highlight for unforgettable memories
+- Options that effectively mix work sessions and festive moments
+- 2-3 day format in major French or European cities (City-Trip)
+
+----
+
+Mainimg: home2.png
+
+----
+
+Partnerstitle: They trust us
+
+----
+
+Testimonialstitle: What they say about us

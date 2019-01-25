@@ -60,6 +60,10 @@ fields:
     type: text
 
   # Partners
+  partnersTitle:
+    label: Partners Title
+    type: text
+
   partners:
     label: Partners
     type: structure
@@ -81,6 +85,10 @@ fields:
   #       type: textarea
 
   # Client testimonials
+  testimonialsTitle:
+    label: Testimonials Title
+    type: text
+
   testimonial1:
     label: Testimonial 1
     type: textarea

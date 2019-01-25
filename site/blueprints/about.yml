@@ -1,24 +1,45 @@
-title: About
+title: Contact
 
-pages:
-  template: team
-  num: zero
-
-files: false
+pages: false
 
 options: 
-  template: false  
-  status: false  
-  
-fields:
+  delete: false
+  status: false
+
+fields: 
   title:
     label: Title
     type: title
-    
-  intro:
-    label: Intro
+
+  profileImg:
+    label: Profile photo
+    type: image
+
+  bio:
+    label: Bio
+    type: textarea
+
+  contactinfo:
+    label: Contact info
     type: textarea
     
-  text:
-    label: Text
-    type: textarea
+  # contactoptions:
+  #   label: Contact Options
+  #   type: structure
+  #   style: table
+  #   fields:
+  #     title:
+  #       label: Title
+  #       type: text
+  #     icon:
+  #       label: Icon
+  #       type: image
+  #     text:
+  #       label: Text
+  #       type: text
+  #     url:
+  #       label: URL
+  #       type: text
+  #     linktext:
+  #       label: Link Text
+  #       type: text

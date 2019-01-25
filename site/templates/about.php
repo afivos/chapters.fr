@@ -68,16 +68,6 @@ else{
 
 		    <form method="post" class="contact" id="contact">
 
-		      <?php if($alert): ?>
-		      <div class="alert">
-		        <ul>
-		          <?php foreach($alert as $message): ?>
-		          <li><?php echo html($message) ?></li>
-		          <?php endforeach ?>
-		        </ul>
-		      </div>
-		      <?php endif ?>
-
 			  <fieldset>
 			    <input name="name" placeholder="Nom (*)" type="text" tabindex="1" required autofocus>
 			  </fieldset>

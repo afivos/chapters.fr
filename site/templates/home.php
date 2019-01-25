@@ -80,7 +80,7 @@
 
 <div class="container-dark section-logos-testimonials">
     <div class="container hidden-sm">
-        <h1>Ils nous font confiance :</h1>
+        <h1><?= $page->partnersTitle()->text() ?></h1>
         <div class="row text-center">
         <?php
         $partners = $page->partners()->toStructure();
@@ -93,7 +93,7 @@
     </div>
     <div class="container">
         <hr>
-        <h1>Quelques mots de nos clients :</h1>
+        <h1><?= $page->testimonialsTitle()->text() ?></h1>
         <div class="row">
             <!---------------------
                 <?php foreach($page->testimonials()->toStructure() as $testimonial): ?>
