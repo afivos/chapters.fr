@@ -6,13 +6,14 @@
                 <p><strong><?= $site->footerSubtitle()->text() ?></strong></p>
             </div>
             <div class="three columns">
-                <?= $site->headquartersTitle()->text() ?>
-                <?= $site->headquartersAddress()->kirbytext() ?>
-                <?= $site->officeTitle()->text() ?>
-                <?= $site->officeAddress()->kirbytext() ?>
+                <p><?= $site->headquartersTitle()->text() ?>
+                    <br><?= $site->headquartersAddress()->text() ?></p>
+                <p><?= $site->officeTitle()->text() ?>
+                    <br><?= $site->officeAddress()->text() ?></p>
             </div>
             <div class="three columns">
-                <p><?= $site->emailTitle()->text() ?> <a href="mailto: <?= $site->email()->text() ?>"><?= $site->email()->text() ?></a></p>
+                <p><?= $site->emailTitle()->text() ?>
+                    <br><a href="mailto: <?= $site->email()->text() ?>"><?= $site->email()->text() ?></a></p>
                 <p><?= $site->social()->text() ?>
                     <br><a href="<?= $site->twitter() ?>">twitter</a>
                     <br><a href="<?= $site->linkedin() ?>">linkedin</a></p>
