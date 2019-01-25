@@ -9,6 +9,9 @@
   <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
   <meta name="description" content="<?= $site->description()->html() ?>">
 
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="shortcut icon" href="favicon.ico">
+
   <!-- Fonts, then styles -->
   <?= css('assets/fonts/stylesheet.css') ?>
   <?= css('assets/css/main.css') ?>
