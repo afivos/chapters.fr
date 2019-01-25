@@ -18,10 +18,6 @@ fields:
   bio:
     label: Bio
     type: textarea
-
-  contactinfo:
-    label: Contact info
-    type: textarea
     
   # contactoptions:
   #   label: Contact Options

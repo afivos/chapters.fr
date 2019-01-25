@@ -1,6 +1,10 @@
 title: Site
 
 fields:
+  siteName:
+    label: Site Name
+    type: text
+
   title:
     label: Title
     type:  text
@@ -12,6 +16,12 @@ fields:
   email:
     label: Email
     type:  email
+    width: 1/2
+
+  telephone:
+    label: Telephone
+    type: text
+    width: 1/2
 
   description:
     label: Description
@@ -42,27 +52,32 @@ fields:
   headquartersTitle:
     label: Headquarters Title
     type: text
-    width: 1/5
+    width: 1/3
 
   officeTitle:
     label: Office Title
     type: text
-    width: 1/5
+    width: 1/3
+
+  telephoneTitle:
+    label: Telephone Title
+    type: text
+    width: 1/3
 
   emailTitle:
     label: Email Title
     type: text
-    width: 1/5
+    width: 1/3
 
   socialTitle:
     label: Social Networks Title
     type: text
-    width: 1/5
+    width: 1/3
 
   legalTitle:
     label: Legal Notice Title
     type: text
-    width: 1/5
+    width: 1/3
 
   headquartersAddress:
     label: Headquarters Address

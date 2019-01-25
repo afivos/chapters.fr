@@ -2,7 +2,7 @@
 
 <div class="top-bar text-center">
     <div class="container">
-        <p><?= $site->topBarText()->text() ?> – <a href="mailto: <?= $site->email()->text() ?>"><?= $site->email()->text() ?></a> – <a href="tel:0756924800">07 56 92 48 00</a></p>
+        <p><?= $site->topBarText()->text() ?> – <a href="mailto: <?= $site->email()->text() ?>"><?= $site->email()->text() ?></a> – <a href="tel:<?= $site->telephone()->text() ?>"><?= $site->telephone()->text() ?></a></p>
     </div>
 </div>
 
@@ -10,11 +10,11 @@
     <div class="container">
         <div class="row">
             <div class="seven columns">
-                <a href="<?= $site->url() ?>" class="logo"><h1>Chapters</h1></a>
+                <a href="<?= $site->url() ?>" class="logo"><h1><?= $site->siteName()->text() ?></h1></a>
                 <div class="row">
                     <div class="six columns">
                         <p class="subtitle-one">
-                            <?= $site->headerSubtitle()->kirbytext() ?>
+                            <?= $site->headerSubtitle()->text() ?>
                         </p>
                     </div>
                     <div class="six columns">

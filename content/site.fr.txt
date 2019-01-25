@@ -81,15 +81,27 @@ Legaltitle: Mentions Légales
 Headquartersaddress: 
 
 5 rue du Faubourg
-Saint-Antoine 75011 Paris
+<br>Saint-Antoine 75011 Paris
 
 ----
 
 Officeaddress: 
 
 23 rue du Cherche Midi
-75006 Paris
+<br>75006 Paris
 
 ----
 
 Topbartext: Organisme de formation référencé Datadock: Prise en charge sur vos budgets formation
+
+----
+
+Telephone: +33 07 56 92 48 00
+
+----
+
+Sitename: Chapters
+
+----
+
+Telephonetitle: Téléphone :

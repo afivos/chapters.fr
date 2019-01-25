@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="three columns">
-                <h1><a href="<?= $site->url() ?>">Chapters</a></h1>
+                <h1><a href="<?= $site->url() ?>"><?= $site->siteName()->text() ?></a></h1>
                 <p><strong><?= $site->footerSubtitle()->text() ?></strong></p>
             </div>
             <div class="three columns">

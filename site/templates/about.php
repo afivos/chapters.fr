@@ -93,6 +93,16 @@ else{
 
 		</div>
 		<div class="six columns">
+			<p><?= $site->telephoneTitle()->text() ?>
+				<br><a href="tel:<?= $site->telephone()->text() ?>"><?= $site->telephone()->text() ?></a></p>
+			<p><?= $site->emailTitle()->text() ?>
+				<br><a href="mailto: <?= $site->email()->text() ?>"><?= $site->email()->text() ?></a></p>
+			<p><?= $site->headquartersTitle()->text() ?>
+				<br><?= $site->headquartersAddress()->text() ?></p>
+			<p><?= $site->officeTitle()->text() ?>
+				<br><?= $site->officeAddress()->text() ?></p>
+			</p>
+			</p>
 			<?= $page->contactinfo()->kirbytext() ?>
 		</div>
 	</div>
