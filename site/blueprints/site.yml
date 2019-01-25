@@ -17,6 +17,10 @@ fields:
     label: Description
     type:  textarea
 
+  topBarText:
+    label: Top Bar Text
+    type: text
+
   headerSubtitle:
     label: Header Subtitle
     type: text

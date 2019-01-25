@@ -89,3 +89,7 @@ Officeaddress:
 
 23 rue du Cherche Midi
 75006 Paris
+
+----
+
+Topbartext: Organisme de formation référencé Datadock: Prise en charge sur vos budgets formation

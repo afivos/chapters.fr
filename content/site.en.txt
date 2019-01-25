@@ -1,4 +1,4 @@
-Title: Chapters - Des séminaires qui ont du sens - Les nouveaux séminaires
+Title: Chapters - Meaningful Seminars - New Seminars
 
 ----
 
@@ -6,11 +6,11 @@ Author: Pierre Le Leuch
 
 ----
 
-Description: Des séminaires d'entreprise originaux sur le fond et sur la forme Un double statut unique de tour-opérateur et de cabinet de conseil en management.
+Description: Original corporate seminars on both form and substance. A unique dual status of tour operator and management consulting firm.
 
 ----
 
-Copyright: © 2009–(date: Year) (link: https://chapters.fr text: Chapters - tous droits réservés)
+Copyright: © 2009–(date: Year) (link: https://chapters.fr text: Chapters - all rights reserved)
 
 ----
 
@@ -89,3 +89,7 @@ Officeaddress:
 
 23 rue du Cherche Midi
 75006 Paris
+
+----
+
+Topbartext: Datadock-indexed Training organization: Covered by your training budget

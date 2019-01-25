@@ -2,7 +2,7 @@
 
 <div class="top-bar text-center">
     <div class="container">
-        <p>Organisme de formation référencé Datadock: Prise en charge sur vos budgets formation – <a href="mailto: <?= $site->email()->text() ?>"><?= $site->email()->text() ?></a> – <a href="tel:0756924800">07 56 92 48 00</a></p>
+        <p><?= $site->topBarText()->text() ?> – <a href="mailto: <?= $site->email()->text() ?>"><?= $site->email()->text() ?></a> – <a href="tel:0756924800">07 56 92 48 00</a></p>
     </div>
 </div>
 
