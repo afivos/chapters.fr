@@ -54,7 +54,7 @@ Legal: Legal Notice
 
 ----
 
-Email: Email:
+Email: contact@chapters.fr
 
 ----
 
@@ -74,4 +74,18 @@ Socialtitle: Social Networks:
 
 ----
 
-Legaltitle: Legal Notice:
+Legaltitle: Legal Notice
+
+----
+
+Headquartersaddress: 
+
+5 rue du Faubourg
+Saint-Antoine 75011 Paris
+
+----
+
+Officeaddress: 
+
+23 rue du Cherche Midi
+75006 Paris

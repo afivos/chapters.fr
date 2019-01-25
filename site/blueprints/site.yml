@@ -28,7 +28,7 @@ fields:
     width: 1/2
 
   lowtechhighfuture:
-    label: Low Tech, High Future
+    label: Low Tech, High Future →
     type: text
     
   copyright:
@@ -63,10 +63,12 @@ fields:
   headquartersAddress:
     label: Headquarters Address
     type: textarea
+    width: 1/2
 
   officeAddress:
     label: Office Address
     type: textarea
+    width: 1/2
 
   twitter:
     label: Twitter
